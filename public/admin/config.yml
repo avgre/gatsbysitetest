@@ -1,8 +1,6 @@
 backend:
   name: github
   repo: avgre/gatsbysitetest
-  auth: github
-  base_url: https://api.netlify.com
 media_folder: src/images
 public_folder: static/assets
 collections:
